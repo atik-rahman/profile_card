@@ -140,7 +140,7 @@ div.contact p:last-child {
 @media only screen and (max-width: 600px) {
     .container {
         width: 90%;
-        height: 77vh;
+        height: 85vh;
         padding: 10px;
         margin: 0px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
